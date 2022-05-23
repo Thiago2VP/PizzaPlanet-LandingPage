@@ -16,12 +16,12 @@ body{
 
 @font-face{
 	font-family: "InsaneBurger";
-	src: url("/home/thiago/Pictures/PizzaPlanet/pictures/Insanibc.ttf");
+	src: url("source/fonts/Insanibc.ttf");
 }
 
 @font-face{
 	font-family: "Barlon";
-	src: url("/home/thiago/Pictures/PizzaPlanet/pictures/Barlow-Regular.ttf");
+	src: url("source/fonts/Barlow-Regular.ttf");
 }
 
 .container{
@@ -106,7 +106,7 @@ body{
 }
 
 .section-type-1{
-	background-image: url("/home/thiago/Pictures/PizzaPlanet/pictures/back.png");
+	background-image: url("source/img/back.png");
 	background-position: center;
 	background-size: cover;
 }
@@ -166,7 +166,7 @@ body{
 }
 
 .card{
-	background-image: url("/home/thiago/Pictures/PizzaPlanet/pictures/back-ground-grey.jpg");
+	background-image: url("source/img/back-ground-grey.jpg");
 	background-position: center;
 	background-size: auto;
 	border-radius: 25px;
